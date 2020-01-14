@@ -1,0 +1,4 @@
+[build]
+base = "shnt/"
+publish= "shnt/build/"
+command = "npm build"
